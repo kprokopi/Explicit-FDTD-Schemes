@@ -1,2 +1,2 @@
 # Explicit-FDTD-schemes
-This repository contains FDTD schemes for the modelling of dispersive media. 
+This repository contains explicit FDTD schemes for the modelling of dispersive media. 
